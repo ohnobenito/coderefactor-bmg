@@ -3,7 +3,9 @@
 
 **Link:** https://ohnobenito.github.io/coderefactor-bmg/
 
-**Screenshots:** <img src="./HoriSS.png">
+**Screenshots:**
+<img src="./assests/images/HoriSS.png">
+<img src="./assests/images/HoriseonSS2.png">
 
 ### **Overview:**
 For this project I was hired by Horiseon Social Solutions, Inc to take their exisiting website and make it more accessible. Accessibility is an extremely important aspect for businesses to include with their webpages, as it gives people using assistive technology full access to the web. Better accessibility also grants better search engine optimization. 
